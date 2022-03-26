@@ -537,6 +537,8 @@ html {
 .section3__button:active {
     transition: 0.1s;
     transform: scale(0.9);
+    background-color: white;
+    color: black;
 }  
 
 .custom-shape-divider-top-1642972684 {
