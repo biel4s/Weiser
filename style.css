@@ -20,11 +20,15 @@ html {
   }
 
 ::-webkit-scrollbar-thumb {
-    background: #707070;
+    background: #606060;
   }
   
 ::-webkit-scrollbar-thumb:hover {
-    background: #353535; 
+    background: #454545; 
+}
+
+::-webkit-scrollbar-thumb:active {
+    background: #303030; 
 }
 
 /* navbar */
@@ -401,6 +405,7 @@ html {
     margin-right: auto;
     width: clamp(300px, 25vw, 700px);
     height: clamp(200px, 15vw, 400px);
+    border-radius: 10px;
     justify-content: space-between;
 }
 
@@ -1043,5 +1048,5 @@ html {
     .section4 {
         height: 800px;
     }
-    
+ }
 }
