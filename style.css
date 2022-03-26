@@ -508,6 +508,10 @@ html {
     border-radius: 10px;
 }
 
+.section3__button span:before {
+    display: none;
+}
+
 .section3__button {
     display: flex;
     justify-content: center;
@@ -522,7 +526,7 @@ html {
     color: white;
     font-size: 1rem;
     letter-spacing: 2px;
-    transition: ease-in-out 0.5s;
+    transition: ease-in-out 0.2s;
 }
 
 .section3__button:hover {
@@ -531,10 +535,9 @@ html {
 } 
 
 .section3__button:active {
-  transition: 0.2s;
-  transform: scale(0.9);
-}
-
+    transition: 0.1s;
+    transform: scale(0.9);
+}  
 
 .custom-shape-divider-top-1642972684 {
     position: absolute;
