@@ -530,6 +530,12 @@ html {
     color: black;
 } 
 
+.section3__button:active {
+  transition: 0.2s;
+  transform: scale(0.9);
+}
+
+
 .custom-shape-divider-top-1642972684 {
     position: absolute;
     top: 0;
