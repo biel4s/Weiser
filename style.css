@@ -849,7 +849,7 @@ html {
 
     .section2__offer img{
         float: left;
-        padding-right: 30px;
+        margin-right: 30px;
     }
 
     .section2__list {
