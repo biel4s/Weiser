@@ -8,4 +8,5 @@
 ### Things to do: 
 - Make english and german site
 - Fix switch language menu
+- Fix button on mobile view
 - .
