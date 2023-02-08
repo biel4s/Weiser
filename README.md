@@ -6,7 +6,7 @@
 ![](https://i.imgur.com/jZWmMHb.png)
 
 ### Things to do: 
-- Make english and german site
+- Add english and german language
 - Fix switch language menu
 - Fix button on mobile view
 - .
