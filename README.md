@@ -9,4 +9,3 @@
 - Add english and german language
 - Fix switch language menu
 - Fix button on mobile view
-- .
