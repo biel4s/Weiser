@@ -1,7 +1,10 @@
+const currentYear = new Date().getFullYear();
 const hamburgerMenu = document.querySelector('.hamburger__menu');
 const headerMenu = document.querySelector('.header__right');
 const headerLink = document.querySelectorAll('.header__link');
 const languageMenu = document.querySelector('.header__lang');
+
+document.getElementById("current-year").innerHTML = currentYear;
 
 hamburgerMenu.addEventListener('click', () => {
     hamburgerMenu.classList.toggle('open');
